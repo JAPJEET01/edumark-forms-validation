@@ -25,7 +25,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/themify-icons.css",
+              "src/assets/css/nice-select.css",
+              "src/assets/css/flaticon.css",
+              "src/assets/css/gijgo.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/slicknav.css",
+              "src/assets/css/style.css"
             ],
             "scripts": []
           },
@@ -94,5 +105,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e522e380-e625-4832-b85c-bd0ebd318a97"
   }
 }
